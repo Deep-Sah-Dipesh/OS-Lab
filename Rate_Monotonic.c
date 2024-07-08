@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 #include <stdio.h>
 
 #define HYPER_PERIOD 280
